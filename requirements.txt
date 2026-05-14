@@ -1,0 +1,10 @@
+streamlit>=1.35.0,<2.0.0
+openai>=1.40.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+azure-identity>=1.16.0,<2.0.0
+azure-mgmt-costmanagement>=3.0.0,<4.0.0
+azure-mgmt-advisor>=9.0.0,<10.0.0
+azure-mgmt-resource>=23.0.0,<24.0.0
+azure-mgmt-security>=6.0.0,<7.0.0
+azure-mgmt-monitor>=6.0.0,<7.0.0
+python-dotenv>=1.0.0,<2.0.0
